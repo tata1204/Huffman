@@ -6,6 +6,7 @@ Esta es una aplicación desarrollada en Python utilizando el framework Kivy, que
 ## ¿Quién hizo esto?
 
 Mayezly Tatiana Gafaro Boada
+
 Jarrison Lopez
 
 ## ¿Qué es y para qué es?
